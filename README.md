@@ -1,5 +1,5 @@
 # SDK 2.X Evaluation
-Evaluation version of the Glasswall File Trust SDK (Alpha) expires 20/02/2020
+Evaluation version of the Glasswall File Trust SDK (Alpha) expires 04/03/2020
 
 The repository containing all the SDK 2.x libraries and CLI tool can be found here: https://github.com/filetrust/SDK-Evaluation-Version-2.x. 
 
