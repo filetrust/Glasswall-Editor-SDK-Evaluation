@@ -13,7 +13,7 @@ apt-get install -y fontconfig
 apt-get install -y git
 
 ## create git working directory ##
-mkdir /home/glasswall/Desktop/glasswall/
+mkdir -p /home/glasswall/Desktop/glasswall/
 cd /home/glasswall/Desktop/glasswall
 
 ##
