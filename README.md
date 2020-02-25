@@ -6,7 +6,7 @@ The repository containing all the SDK 2.x libraries and CLI tool can be found he
 
 ## SDK Documentation
 
-- For SDK 2.x documentation [Click Here](https://docs.glasswallsolutions.com/sdk/).
+- For SDK 2.x documentation [Click Here](https://docs.glasswallsolutions.com/sdk/editor).
 
 ## Docker
 This is built on a CentOS7 image, containing version 2 of the Glasswall core engine. The engine is configured to run files in both analysis and protect modes. File are processed from a mounted directory and regenerated into a separate output directory.
