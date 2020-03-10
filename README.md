@@ -1,7 +1,7 @@
-# SDK 2.X Evaluation
-Evaluation version of the Glasswall File Trust SDK (Alpha) expires 02/04/2020
+# GW Editor Evaluation
+Evaluation version of the Glasswall Editor SDK (Alpha) expires 02/04/2020
 
-The repository containing all the SDK 2.x libraries and CLI tool can be found here: https://github.com/filetrust/SDK-Evaluation-Version-2.x. 
+The repository containing all the SDK 2.x libraries and CLI tool can be found here: https://github.com/filetrust/GW-Editor-Evaluation. 
 
 
 ## SDK Documentation
@@ -9,7 +9,7 @@ The repository containing all the SDK 2.x libraries and CLI tool can be found he
 - For SDK 2.x documentation [Click Here](https://docs.glasswallsolutions.com/sdk/editor).
 
 ## Docker
-This is built on a CentOS7 image, containing version 2 of the Glasswall core engine. The engine is configured to run files in both analysis and protect modes. File are processed from a mounted directory and regenerated into a separate output directory.
+This is built on a CentOS7 image, containing the GW Editor engine. The engine is configured to run files in both analysis and protect modes. File are processed from a mounted directory and regenerated into a separate output directory.
 Begin by downloading the files to a clean workspace. Check that the dockerfile is in the same directory as the release package.
 
 If you haven’t used docker before you will need to install it now. You will need to share the drive you want to input and output data from with your instance of docker. To do this right click docker in the system tray. Click 'settings'. Click 'Shared Drives' and share the appropriate drive. Click 'Apply'.
