@@ -1,12 +1,12 @@
 # GW Editor Evaluation
 Evaluation version of the Glasswall Editor SDK (Alpha) expires 02/04/2020
 
-The repository containing all the SDK 2.x libraries and CLI tool can be found here: https://github.com/filetrust/GW-Editor-Evaluation. 
+The repository containing all the Glasswall Editor SDK libraries and CLI tool can be found here: https://github.com/filetrust/GW-Editor-Evaluation. 
 
 
-## SDK Documentation
+## Glasswall Editor SDK Documentation
 
-- For SDK 2.x documentation [Click Here](https://docs.glasswallsolutions.com/sdk/editor).
+- For Glasswall Editor SDK documentation [Click Here](https://docs.glasswallsolutions.com/sdk/editor).
 
 ## Docker
 This is built on a CentOS7 image, containing the GW Editor engine. The engine is configured to run files in both analysis and protect modes. File are processed from a mounted directory and regenerated into a separate output directory.
@@ -32,7 +32,7 @@ This command will build the container and mount "C:\data\input" to "/input" on t
 
 ## NOTES
 
-- Please be aware that the current release of the SDK 2.x engine does not fully support the PDF file format.
+- Please be aware that the current release of the Glasswall Editor SDK engine does not fully support the PDF file format.
 
 - The Content Management switches are set to the default behaviour which is to Sanitise all Active Content.
 
