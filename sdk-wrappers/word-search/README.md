@@ -80,9 +80,9 @@ Here is an example of a word search configuration:
 ```
 
 In this example we are searching for the text "cats" and allowing it, searching for the regular expression "l\S+e" and redacting it, and searching for the text "hello" and disallowing it. The `textSetting` element accepts the following options:
-* `Allow` - Allowing an item will not apply redaction, but will mention the item in the word search report if it is found
-* `Disallow` - Disallowing an item will flag the document as non-conforming if the item is found
-* `Redact` - Redacting an item will replace the text with the replacement character specified. For example, "cats" will be replaced with "****"
+* `allow` - Allowing an item will not apply redaction, but will mention the item in the word search report if it is found
+* `disallow` - Disallowing an item will flag the document as non-conforming if the item is found
+* `redact` - Redacting an item will replace the text with the replacement character specified. For example, "cats" will be replaced with "****"
 
 ## API
 
