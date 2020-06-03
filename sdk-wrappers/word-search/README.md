@@ -1,5 +1,13 @@
 # Word search
-TBD
+
+The Glasswall engine provides deep-file inspection, remediation, sanitisation, and reporting. 
+
+The engine deconstructs a file to its structural components and builds an internal tree-like representation of the file. It walks each node of the tree, inspecting, repairing, and sanitising content items before reconstructing a new file. 
+
+The Glasswall engine also provides the ability to export and import the engine's internal representation of a file structure in an intermediate format such as XML. This allows internal components of a file to be made available to external programs for additional processing, before recomposing the file to include those externally modified components.
+
+Glasswalls Word Search engine is built on top of the export and import capability, performing text searching in the content and metadata of a file. Search strings, content management, and redaction rules are configured via an XML file. A user-configurable character substitution map defined in JSON form is used to provide support for text obfuscation. The engine also comes with built-in regular expression support.
+
 
 ## Word search configuration
 
