@@ -1,5 +1,5 @@
 # GW Editor Evaluation
-Evaluation version of the Glasswall Editor SDK (Alpha) expires 14/06/2020
+Evaluation version of the Glasswall Editor SDK (Alpha) expires  26/07/2020
 
 The repository containing all the Glasswall Editor SDK libraries and CLI tool can be found here: https://github.com/filetrust/GW-Editor-Evaluation. 
 
