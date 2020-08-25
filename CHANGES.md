@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 
 
+
+
+# Update to build 2.36
+- Improvements in versions of office supported.
+
+- Various bug fixes for content management
+
+- Bug fixes for word search.
+
 ## [2.01] - 2020-01-17
 ### Fixes
 
