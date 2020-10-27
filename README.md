@@ -1,3 +1,8 @@
+# DEPRECATED - No longer actively maintained
+## [Click here](https://github.com/filetrust/sdk-editor-eval) to access the new repository
+
+
+
 # GW Editor Evaluation
 Evaluation version of the Glasswall Editor SDK (Alpha) expires  09/10/2020
 
